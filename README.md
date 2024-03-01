@@ -1,4 +1,4 @@
-# Neshan_Project
+# Neshan Project
 
 This is the final project for my data science course. This project was assigned to us with the help of an app called Neshan (similar to Google Maps) in which the user can get the shortest paths by giving their current location and destination.
 
